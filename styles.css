@@ -116,3 +116,20 @@ h3{
 .social{
   width:3rem;
 }
+.row{
+   display: flex;
+  justify-content: center;
+}
+.mb-3{
+  display: flex;
+ justify-content: center;
+}
+.formbutton{
+  display: flex;
+ justify-content: center;
+ padding-bottom: 40px;
+}
+ .row{
+   padding: 0;
+   margin: 0;
+ }
